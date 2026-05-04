@@ -95,9 +95,12 @@ Funcția Privacy Shield este un element important al proiectului. La export, apl
 
 Adaugă aici capturi din interfața aplicației.
 
-![Interfață principală](assets/screenshots/main-interface.png)
-![Zona watermark fotografie](assets/screenshots/photo-watermark.png)
-![Procesare batch](assets/screenshots/batch-processing.png)
+![Interfață principală](Screenshot/Interfata_Aplic.png)
+## Fig.1 Interfata Principala
+![Zona watermark fotografie](Screenshot/Logo_Personaliz.png)
+## Fig.2 Zona Watermark fotografie
+![Procesare batch](Screenshot/Batch_Processing.png)
+## Fig.3 Procesare Batch
 ## 🎯 Obiectiv
 
 Scopul acestui proiect este de a transforma metadatele dintr-o vulnerabilitate într-un instrument controlat de protecție, branding și autenticitate digitală, oferind un editor multimedia local, rapid și orientat spre siguranța datelor.
